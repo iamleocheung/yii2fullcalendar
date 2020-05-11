@@ -21,7 +21,7 @@
 		"yiisoft/yii2": "*",
 		"bower-asset/fullcalendar": "~4.4.0",
 		"bower-asset/fullcalendar-scheduler" : "4.0.1@stable",
-		"bower-asset/moment": "4.0.2"
+		"bower-asset/moment": "*"
 	},
 	"require-dev": {
 		"codeception/codeception": "*"
